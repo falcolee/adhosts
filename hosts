@@ -15,6 +15,17 @@
 #0.0.0.0 api.sec.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 xlmc.sec.miui.com
+#MIUI浏览器网址拦截
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 security.browser.miui.com
+127.0.0.1 httpdns.browser.miui.com
+127.0.0.1 activity.browser.intl.miui.com
+#MIUI浏览器去广告
+127.0.0.1 hd.browser.miui.com
+127.0.0.1 hd-preview.browser.miui.com
+127.0.0.1 r.browser.miui.com
+127.0.0.1 nav.browser.miui.com
+127.0.0.1 reader.browser.miui.com
 #禁用后将无法云扫描病毒
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
