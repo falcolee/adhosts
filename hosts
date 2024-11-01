@@ -1,3 +1,27 @@
+#屏蔽苹果更新OTA
+127.0.0.1 ns.itunes.apple.com  
+127.0.0.1 appldnld.apple.com  
+127.0.0.1 mesu.apple.com  
+127.0.0.1 xp.apple.com  
+127.0.0.1 gdmf.apple.com  
+127.0.0.1 updates-http.cdn-apple.com  
+127.0.0.1 updates.cdn-apple.com  
+127.0.0.1 appldnld-lb.apple.com.akadns.net  
+127.0.0.1 appldnld.apple.com  
+127.0.0.1 appldnld.apple.com.akadns.net  
+127.0.0.1 appldnld.g.aaplimg.com  
+127.0.0.1 gdmf.apple.com.akadns.net  
+127.0.0.1 mesu-cdn.apple.com.akadns.net  
+127.0.0.1 mesu-cdn.origin-apple.com.akadns.net  
+127.0.0.1 mesu.g.aaplimg.com  
+127.0.0.1 swdist.apple.com  
+127.0.0.1 swscan.apple.com  
+127.0.0.1 swcdn.apple.com  
+127.0.0.1 world-gen.g.aaplimg.com
+#屏蔽苹果企业证书过期
+127.0.0.1 ocsp.apple.com  
+127.0.0.1 ocsp.g.aaplimg.com  
+127.0.0.1 ocsp-lb.apple.com.akadns.net
 #此处主要屏蔽小米云扫描组件
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
