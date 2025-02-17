@@ -1,9 +1,8 @@
-
 #
-# Blocked domains: 6146
 # Description: 适用于 Shadowrocket 的去广告规则
 # Last modified: 2025/02/17 10:08:20
-# Source: 
+# Source: https://raw.githubusercontent.com/falcolee/adhosts/main/adblock.list
+# Srouce: https://ghfast.top/https://raw.githubusercontent.com/falcolee/adhosts/main/adblock.list
 # Title: AdBlock Shadowrocket Lite
 #屏蔽苹果更新OTA
 DOMAIN,ns.itunes.apple.com  
